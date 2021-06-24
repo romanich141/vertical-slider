@@ -21,7 +21,8 @@
 
 .slider__images {
   position: relative;
-  width: 65%; }
+  width: 65%;
+  transition: all 1s; }
   .slider__images .image__item img {
     object-fit: cover;
     height: 100vh;

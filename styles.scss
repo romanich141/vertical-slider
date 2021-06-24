@@ -25,6 +25,7 @@
 .slider__images {
   position: relative;
   width: 65%;
+  transition: all 1s;
   .image__item {
     img {
       object-fit: cover;
